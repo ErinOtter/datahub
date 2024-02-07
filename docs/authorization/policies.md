@@ -231,7 +231,7 @@ The DataHub team is hard at work trying to improve the Policies feature. We are 
 
 Under consideration
 
-- Ability to define Metadata Policies against multiple reosurces scoped to particular "Containers" (e.g. A "schema", "database", or "collection")
+- Ability to define Metadata Policies against multiple resources scoped to particular "Containers" (e.g. A "schema", "database", or "collection")
 
 ## Feedback / Questions / Concerns
 
